@@ -57,3 +57,7 @@ BOOL WINAPI DLLMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved)
 	}
 }
 */
+
+//-----------------------------
+// Func Created by cNmLa ==    |
+//-----------------------------
