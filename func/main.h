@@ -13,6 +13,6 @@ extern "C"
 }
 #endif
 
-*/
-// Func Created by cNmLa ==   
 /*
+// Func Created by cNmLa ==   
+*/
