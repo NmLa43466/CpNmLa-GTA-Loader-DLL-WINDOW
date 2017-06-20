@@ -12,3 +12,7 @@ extern "C"
 
 }
 #endif
+
+*/
+// Func Created by cNmLa ==   
+/*
