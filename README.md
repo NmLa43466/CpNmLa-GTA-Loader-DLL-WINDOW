@@ -1,2 +1,4 @@
 # CpNmLa-GTA
-this is a Finish CODEING
+This Code Load A dll whith consloe app ..
+#DLL WITH CONSOLE ENABLE IN HANDLE WINDOW ..
+# FINISH
