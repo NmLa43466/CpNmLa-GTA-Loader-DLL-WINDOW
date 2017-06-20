@@ -1,5 +1,6 @@
-// Client ADD dll in loc Client  
-//------------------------------
+// Client ADD dll in loc Client            // By CpNmLa == //
+// Client is a app Console or any exe app  // use console Fast to Created //
+//_________________________________________________________________________//
 #include <iostream>
 #include <Windows.h>
 
